@@ -7,8 +7,17 @@ const MonsterBox = () => {
 
   return (
     <>
-      {data.map((monster) => {
-        return <Monster name={monster.name} eyes={monster.eyes} />;
+      {data.map((monster, id) => {
+        return (
+          <Monster
+            key={id}
+            name={monster.name}
+            eyes={monster.eyes}
+            diet={monster.diet}
+            behaviour={monster.behaviour}
+            teeth={monster.teeth}
+          />
+        );
       })}
     </>
   );
