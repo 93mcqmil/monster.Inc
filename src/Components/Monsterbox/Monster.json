@@ -2,16 +2,25 @@
   "data": [
     {
       "name": "Tarrus",
-      "eyes": 24
+      "eyes": 24,
+      "diet": "Vegetarian",
+      "behaviour": "Aggresive",
+      "teeth": 108
     },
 
     {
       "name": "Blindus",
-      "eyes": 1
+      "eyes": 1,
+      "diet": "Predator",
+      "behaviour": "Aggresive",
+      "teeth": 155
     },
     {
       "name": "Karkasus",
-      "eyes": 34
+      "eyes": 34,
+      "diet": "Vegetarian",
+      "behaviour": "Relaxed",
+      "teeth": 90
     }
   ]
 }
