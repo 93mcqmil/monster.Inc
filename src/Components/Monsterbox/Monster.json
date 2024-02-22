@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "name": "Tarrus",
+      "eyes": 24
+    },
+
+    {
+      "name": "Blindus",
+      "eyes": 1
+    },
+    {
+      "name": "Karkasus",
+      "eyes": 34
+    }
+  ]
+}
